@@ -22,7 +22,7 @@
                     </div>
                     <div class="detail-box">
                         <p>
-                            <a href="tel:+62812-7680-4005">0812-7680-4005</a> 
+                            <a href="https://wa.me/6282210098869">0822-1009-8869</a>
                         </p>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                     </div>
                     <div class="detail-box">
                         <p>
-                            <a href="mailto:bamc@gmail.com">bamc@gmail.com</a> 
+                            <a href="mailto:rachel21ti@mahasiswa.pcr.ac.id">bamc@gmail.com</a>
                         </p>
                     </div>
                 </div>
@@ -45,10 +45,9 @@
 
                     </div>
                     <div class="detail-box">
-                        <p>
-                            Jln. Permata Sari No. 01 RT 03 RW 08 Kelurahan Limbungan Baru Kec. Rumbai Pesisir
-                            - PEKANBARU
-                        </p>
+                        <a href="https://www.google.com/maps/search/?api=1&query=Jln.+Permata+Sari+No.+01+RT+03+RW+08+Kelurahan+Limbungan+Baru+Kec.+Rumbai+Pesisir+-+PEKANBARU"
+                            target="_blank">Jln. Permata Sari No. 01 RT 03 RW 08 Kelurahan Limbungan Baru Kec. Rumbai Pesisir
+                            - PEKANBARU</a>
                     </div>
                 </div>
             </a>
